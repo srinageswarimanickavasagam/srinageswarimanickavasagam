@@ -8,9 +8,9 @@ I’ve worked on applications used by **tens of thousands of global customers**,
 
 ## Personal Projects
 
-### [programmed-household](https://github.com/srinageswarimanickavasagam/programmed-household)
-A personal project aimed at automating household inventory management and meal planning. This application leverages **Java and Spring Boot** to provide real-time updates and efficient data handling.
-
+### [Household Inventory Management](https://github.com/srinageswarimanickavasagam/platform-engineering-blueprint)
+  A work-in-progress project aimed at automating household inventory management while exploring cloud-native capabilities. Built with Java, Spring Boot, Docker, and Kubernetes, it focuses on real-time updates, efficient data handling, and scalable deployment.
+  
 ---
 
 ## Technologies and Tools
@@ -24,7 +24,7 @@ A personal project aimed at automating household inventory management and meal p
 ## Hobbies & Fun Facts
 - Jogging / Gym  
 - Weekend trips with friends  
-- Cooking and hosting friends & family  
+- Cooking and hosting friends & family
 - Currently learning **German (B1 level)**
 
 ---
