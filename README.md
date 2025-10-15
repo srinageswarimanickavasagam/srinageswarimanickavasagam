@@ -16,8 +16,7 @@ I’ve worked on applications used by **tens of thousands of global customers**,
 
 ## Hobbies & Fun Facts
 - Jogging / Gym  
-- Weekend trips with friends  
-- Cooking and hosting friends & family
+- Cooking 
 - Currently learning **German (B1 level)**
 
 ---
