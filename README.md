@@ -32,4 +32,3 @@ A personal project aimed at automating household inventory management and meal p
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/srinageswarimanickavasagam2109/)
-- [Leetcode](https://leetcode.com/srinageswari/)
