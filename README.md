@@ -6,13 +6,6 @@ I’ve worked on applications used by **tens of thousands of global customers**,
 
 ---
 
-## Personal Projects
-
-### [Household Inventory Management](https://github.com/srinageswarimanickavasagam/platform-engineering-blueprint)
-  A work-in-progress project aimed at automating household inventory management while exploring cloud-native capabilities. Built with Java, Spring Boot, Docker, and Kubernetes, it focuses on real-time updates, efficient data handling, and scalable deployment.
-  
----
-
 ## Technologies and Tools
 
 <p align="left">
